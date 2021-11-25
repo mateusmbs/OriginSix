@@ -1,9 +1,9 @@
 # rocketseat
-
+ 
     #NLW-2021
-    
+    https://github.com/mateusmbs/rocketseat/issues/1#issue-1063487356
 Mission: Origin Foundation
-            Esse projeto foi desenvolvido com as seguintes tecnologias:
+            Esse projeto foi desenvolvido com as seguintes tecnologias: 
 
 HTML
 CSS
